@@ -13,7 +13,7 @@ const Hero = () => (
           My Personal Portfolio
         </SectionTitle>
         <SectionText>
-        Hi! I'm Athraja Vibhu Jayawardane <br />
+        Hello! I'm Athraja Vibhu Jayawardane <br />
         I'm a software engineering undergraduate at SLIIT and create web applications and android apps.
         </SectionText>
         <Button onClick={() => window.location = 'https://www.facebook.com/uxas.darkseid.332'}>Learn More</Button>
