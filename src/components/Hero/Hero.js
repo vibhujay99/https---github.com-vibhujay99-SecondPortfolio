@@ -16,7 +16,7 @@ const Hero = () => (
         Hello! I'm Athraja Vibhu Jayawardane <br />
         I'm a software engineering undergraduate at SLIIT and create web applications and android apps.
         </SectionText>
-        <Button onClick={() => window.location = 'https://drive.google.com/file/d/1TuA6B_-uDMeZFOv7zxPjnIozK1TLaRFY/view?usp=sharing'}>My CV</Button>
+        <Button onClick={() => window.location = 'https://drive.google.com/file/d/1Vgo6bdVrTHpR2npJr499uIRdnY8SOh9v/view?usp=sharing'}>My CV</Button>
       </LeftSection>
     </Section>
   </>
