@@ -1,8 +1,12 @@
-import React from 'react';
+import React from "react";
 
-import { Section, SectionText, SectionTitle } from '../../styles/GlobalComponents';
-import Button from '../../styles/GlobalComponents/Button';
-import { LeftSection } from './HeroStyles';
+import {
+  Section,
+  SectionText,
+  SectionTitle,
+} from "../../styles/GlobalComponents";
+import Button from "../../styles/GlobalComponents/Button";
+import { LeftSection } from "./HeroStyles";
 
 const Hero = () => (
   <>
@@ -13,10 +17,18 @@ const Hero = () => (
           My Personal Portfolio
         </SectionTitle>
         <SectionText>
-        Hello! I'm Athraja Vibhu Jayawardane <br />
-        I'm a software engineering undergraduate at SLIIT and create web applications and android apps.
+          Hello! I'm Athraja Vibhu Jayawardane <br />
+          I'm a software engineering undergraduate at SLIIT and create web
+          applications and android apps.
         </SectionText>
-        <Button onClick={() => window.location = 'https://drive.google.com/file/d/1Vgo6bdVrTHpR2npJr499uIRdnY8SOh9v/view?usp=sharing'}>My CV</Button>
+        <Button
+          onClick={() =>
+            (window.location =
+              "https://drive.google.com/file/d/1Vgo6bdVrTHpR2npJr499uIRdnY8SOh9v/view?usp=sharing")
+          }
+        >
+          My CV
+        </Button>
       </LeftSection>
     </Section>
   </>
