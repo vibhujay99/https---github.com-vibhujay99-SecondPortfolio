@@ -24,7 +24,7 @@ const Hero = () => (
         <Button
           onClick={() =>
             (window.location =
-              "https://drive.google.com/file/d/1Vgo6bdVrTHpR2npJr499uIRdnY8SOh9v/view?usp=sharing")
+              "https://drive.google.com/file/d/19aNJfCdVO-ReqcI9DSciW4qKUtZ1qnX_/view?usp=sharing")
           }
         >
           My CV

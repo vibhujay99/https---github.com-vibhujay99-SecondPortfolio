@@ -47,4 +47,8 @@ export const TimeLineData = [
     year: 2022,
     text: "Started working at BeGood Solutions as an Intern Software Engineer",
   },
+  {
+    year: 2023,
+    text: "Finished internship at BeGood Solutions",
+  },
 ];
